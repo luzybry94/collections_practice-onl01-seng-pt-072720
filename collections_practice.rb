@@ -56,7 +56,7 @@ end
 
 def add_s(array)
   array.map do |string|
-    string << 
+    string << "s"
 end
 end
 
