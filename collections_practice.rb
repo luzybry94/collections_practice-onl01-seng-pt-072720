@@ -30,6 +30,7 @@ def swap_elements(array)
   second_element = array[1]
   array[1] = array[2]
   array[2] = second_element
+  array
 end
 
 
